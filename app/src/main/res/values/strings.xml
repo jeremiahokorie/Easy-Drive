@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Easy Drive</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="easy_drive">EASY DRIVE</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="current_location">Current Location</string>
+    <string name="partners">PARTNERS</string>
+    <string name="looking_for_the_rider_app">LOOKING FOR THE RIDER APP</string>
+    <string name="username">UserName</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
